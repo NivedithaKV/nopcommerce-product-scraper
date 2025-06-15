@@ -13,14 +13,18 @@ A Python Selenium project to scrape product details such as names, prices, and r
 - Saves the data to a CSV file
 
 ## 🚀 How to Run
+```
 
+```
 1. Clone the repository:
 ```
-pip install selenium
+
+```
+2. Install required packages:
 ```
 
 ```
-Runthe script:  
+3. Run the script:
 ```
 
 ```
