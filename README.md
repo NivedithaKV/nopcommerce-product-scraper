@@ -18,18 +18,18 @@ A Python Selenium project to scrape product details such as names, prices, and r
 ```
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/NivedithaKV/nopcommerce-product-scraper.git
+```bash
+git clone https://github.com/NivedithaKV/nopcommerce-product-scraper.git
 ```
 
 ```
 2. Install required packages
-   pip install selenium
+pip install selenium
 ```
 
 ```
 3. Run the script:
-   python scraper.py
+python scraper.py
 ```
 
 ```
