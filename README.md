@@ -13,12 +13,14 @@ A Python Selenium project to scrape product details such as names, prices, and r
 - Saves the data to a CSV file
 
 ## 🚀 How to Run
-git clone https://github.com/NivedithaKV/nopcommerce-product-scraper.git
 ```
 
 ```
+
 1. Clone the repository:
-pip install selenium
+
+   ```bash
+   git clone https://github.com/NivedithaKV/nopcommerce-product-scraper.git
 ```
 
 ```
