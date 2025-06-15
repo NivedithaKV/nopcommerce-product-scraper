@@ -16,7 +16,6 @@ A Python Selenium project to scrape product details such as names, prices, and r
 ```
 
 ```
-
 1. Clone the repository:
 
    ```bash
@@ -24,11 +23,13 @@ A Python Selenium project to scrape product details such as names, prices, and r
 ```
 
 ```
-2. Install required packages:
+2. Install required packages
+   pip install selenium
 ```
 
 ```
 3. Run the script:
+   python scraper.py
 ```
 
 ```
