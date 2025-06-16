@@ -27,13 +27,9 @@ pip install selenium
 
 ```
 
-```
-
 3. Run the script:
 ```bash
 python scraper.py
-
-```
 
 ```
 ## 📤 Output
