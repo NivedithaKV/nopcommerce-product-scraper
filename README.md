@@ -21,15 +21,15 @@ A Python Selenium project to scrape product details such as names, prices, and r
 
 
 ```
-2. Install required packages
-```bash
-pip install selenium
+
+2. pip install selenium
+
 ```
 
 ```
-3. Run the script:
-```bash
-python scraper.py
+
+3. python scraper.py
+
 ```
 
 ```
